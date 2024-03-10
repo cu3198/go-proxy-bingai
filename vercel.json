@@ -1,6 +1,7 @@
 {
   "name": "go-proxy-bingai",
   "version": 2,
+  "regions": ["hkg1"],
   "functions": {
     "api/*.go": {
       "runtime": "@vercel/go@3.0.5"
